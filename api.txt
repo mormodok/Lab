@@ -1,0 +1,104 @@
+!] 'google_api' key not set. pushpin module will likely fail at runtime. See 'keys add'.
+[!] 'bing_api' key not set. bing_linkedin_cache module will likely fail at runtime. See 'keys add'.
+[!] Module 'recon/companies-contacts/censys_email_address' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'VIRUSTOTAL_API' KEY NOT SET. VIRUSTOTAL MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] Module 'recon/netblocks-hosts/censys_netblock' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'SHODAN_API' KEY NOT SET. SHODAN_NET MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'flickr_api' key not set. flickr module will likely fail at runtime. See 'keys add'.
+
+[!] 'twitter_api' key not set. twitter module will likely fail at runtime. See 'keys add'.
+[!] 'twitter_secret' key not set. twitter module will likely fail at runtime. See 'keys add'.
+
+[!] 'SHODAN_API' KEY NOT SET. SHODAN MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'google_api' key not set. youtube module will likely fail at runtime. See 'keys add'.
+
+[!] 'CENSYSIO_ID' KEY NOT SET. CENSYS_SUBDOMAINS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+[!] 'CENSYSIO_SECRET' KEY NOT SET. CENSYS_SUBDOMAINS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+
+[!] 'WHOXY_API' KEY NOT SET. WHOXY_DNS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'HUNTER_IO' KEY NOT SET. HUNTER_IO MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'WHOXY_API' KEY NOT SET. WHOXY_WHOIS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] Module 'recon/domains-companies/censys_companies' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'google_api' key not set. reverse_geocode module will likely fail at runtime. See 'keys add'.
+[!] 'google_api' key not set. geocode module will likely fail at runtime. See 'keys add'.
+
+[!] 'SPYSE_API' KEY NOT SET. SPYSE_SUBDOMAINS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'SHODAN_API' KEY NOT SET. SHODAN_HOSTNAME MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'bing_api' key not set. bing_domain_api module will likely fail at runtime. See 'keys add'.
+[!] 'binaryedge_api' key not set. binaryedge module will likely fail at runtime. See 'keys add'.
+[!] 'builtwith_api' key not set. builtwith module will likely fail at runtime. See 'keys add'.
+
+[!] Module 'recon/domains-hosts/censys_domain' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] Module 'recon/netblocks-companies/censys_netblock_company' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'SHODAN_API' KEY NOT SET. SHODAN_ORG MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+[!] 'GITHUB_API' KEY NOT SET. GITHUB_MINER MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+[!] 'GITHUB_API' KEY NOT SET. GITHUB_USERS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'bing_api' key not set. bing_linkedin_contacts module will likely fail at runtime. See 'keys add'.
+
+[!] 'pwnedlist_api' key not set. api_usage module will likely fail at runtime. See 'keys add'.
+[!] 'pwnedlist_secret' key not set. api_usage module will likely fail at runtime. See 'keys add'.
+[!] 'pwnedlist_api' key not set. domain_ispwned module will likely fail at runtime. See 'keys add'.
+[!] 'pwnedlist_secret' key not set. domain_ispwned module will likely fail at runtime. See 'keys add'.
+
+[!] Module 'recon/domains-credentials/pwnedlist/account_creds' disabled. Dependency required: ''pyaes''.
+[!] Module 'recon/domains-credentials/pwnedlist/domain_creds' disabled. Dependency required: ''pyaes''.
+
+[!] 'pwnedlist_api' key not set. leaks_dump module will likely fail at runtime. See 'keys add'.
+[!] 'pwnedlist_secret' key not set. leaks_dump module will likely fail at runtime. See 'keys add'.
+#
+
+[!] 'twitter_api' key not set. twitter_mentions module will likely fail at runtime. See 'keys add'.
+[!] 'twitter_secret' key not set. twitter_mentions module will likely fail at runtime. See 'keys add'.
+[!] 'twitter_api' key not set. twitter_mentioned module will likely fail at runtime. See 'keys add'.
+[!] 'twitter_secret' key not set. twitter_mentioned module will likely fail at runtime. See 'keys add'.
+
+[!] 'NAMECHK_API' KEY NOT SET. NAMECHK MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'CENSYSIO_ID' KEY NOT SET. CENSYSIO MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+[!] 'CENSYSIO_SECRET' KEY NOT SET. CENSYSIO MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'shodan_api' key not set. shodan_ip module will likely fail at runtime. See 'keys add'.
+
+[!] 'binaryedge_api' key not set. binaryedge module will likely fail at runtime. See 'keys add'.
+
+[!] 'GITHUB_API' KEY NOT SET. GITHUB_COMMITS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+[!] 'GITHUB_API' KEY NOT SET. GITHUB_DORKS MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] 'HASHES_API' KEY NOT SET. HASHES_ORG MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] Module 'recon/companies-hosts/censys_tls_subjects' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] Module 'recon/companies-hosts/censys_org' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'IPINFODB_API' KEY NOT SET. IPINFODB MODULE WILL LIKELY FAIL AT RUNTIME. SEE 'KEYS ADD'.
+
+[!] Module 'recon/hosts-hosts/censys_query' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'bing_api' key not set. bing_ip module will likely fail at runtime. See 'keys add'.
+[!] 'virustotal_api' key not set. virustotal module will likely fail at runtime. See 'keys add'.
+[!] Module 'recon/hosts-hosts/censys_ip' disabled. Dependency required: 'me 'CensysIPv4' from 'censys.search' (/usr/local/lib/python3.10/dist-packages/censys/search/__init__.py)'.
+
+[!] 'ipstack_api' key not set. ipstack module will likely fail at runtime. See 'keys add'.
+
+[!] MODULE 'RECON/HOSTS-HOSTS/CENSYS_HOSTNAME' DISABLED. DEPENDENCY REQUIRED: 'ME 'CENSYSIPV4' FROM 'CENSYS.SEARCH' (/USR/LOCAL/LIB/PYTHON3.10/DIST-PACKAGES/CENSYS/SEARCH/__INIT__.PY)'.
+
+[!] 'github_api' key not set. github_repos module will likely fail at runtime. See 'keys add'.
+
+[!] 'hibp_api' key not set. hibp_breach module will likely fail at runtime. See 'keys add'.
+
+[!] 'hibp_api' key not set. hibp_paste module will likely fail at runtime. See 'keys add'.
